@@ -4,9 +4,9 @@
   <test name="ChromeTest">
     <parameter name="browser" value="chrome" /> 
     <classes>
-      <class name="testscripts.AdminUserTest">
+      <class name="testscripts.ManageNewsTest">
         <methods>
-          <include name="verifyAbleToCreateNewAdminUser" />
+          <include name="verifyUserIsAbleToEnterTheNews" />
         </methods>
       </class>
     </classes>

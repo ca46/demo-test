@@ -12,7 +12,6 @@
     <classes>
       <class name="testscripts.ManageNewsTest" />
       <class name="testscripts.LoginTest" />
-      <class name="testscripts.AdminUserTest" />
     </classes>
   </test>
 
